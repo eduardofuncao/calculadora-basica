@@ -1,0 +1,5 @@
+C:\ads\csharp\Calculadora.exe
+C:\ads\csharp\Calculadora.dll
+C:\ads\csharp\Calculadora.deps.json
+C:\ads\csharp\Calculadora.runtimeconfig.json
+C:\ads\csharp\Calculadora.pdb
